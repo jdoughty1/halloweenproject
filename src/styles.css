@@ -1,0 +1,94 @@
+body {
+    background-image: url("https://media.istockphoto.com/photos/witch-riding-a-broom-picture-id155431739?k=20&m=155431739&s=612x612&w=0&h=ga3JGIFfz3n8BY10YY8XF_oCZ-NbIlWlPLUyX086c7E=");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    font-family: "Nosifer", cursive;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+img {
+    padding-bottom: 15px;
+    width: 350px;
+    height: 300px;
+    margin: 10px;
+    transation: all 2s;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+p {
+    display: block;
+    color: rgb(239, 112, 15);
+    font-family: "Nosifer", cursive;
+    font-size: 35px;
+}
+
+h1 {
+    color: rgb(105, 8, 130);
+    font-family: "Nosifer", cursive;
+    font-size: 45px;
+}
+
+li {
+    list-style: none;
+}
+
+button {
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    color: rgb(239, 112, 15);
+    background-color: rgb(105, 8, 130);
+}
+
+.ghosts {
+    display: block;
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(105, 8, 130);
+}
+
+.pumpkins {
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    color: rgb(239, 112, 15);
+}
+
+.skeletons {
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    color: rgb(105, 8, 130);
+}
+
+.bats {
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    color: rgb(239, 112, 15);
+}
+
+.witches {
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    color: rgb(105, 8, 130);
+}
+
+.cats {
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    color: rgb(239, 112, 15);
+}
+
+.houses {
+    font-family: "Nosifer", cursive;
+    font-size: 25px;
+    color: rgb(105, 8, 130);
+}
